@@ -1,0 +1,9 @@
+- Journal intime
+	- insérer un post
+	- revoir les anciens posts
+	- gestion des dates (poster à l'heure actuelle)
+	- insérer un post à une date précise
+	- voir les posts triés (croissant/décroissant) par date ou taille du contenu
+	- plusieurs noms d'utilisateurs
+	- peut publier en tant que cet utilisateur que si mot de passe OK (penser à inscription)
+	- possibilité de voir trier pour ne voir que les posts d'un utilisateur donné
